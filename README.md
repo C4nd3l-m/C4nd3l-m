@@ -1,46 +1,27 @@
-# 👾 Candela Villaverde  
-**Full-Stack Web Developer**  
+<p align="center">
+  <img src="https://media.tenor.com/UfVr-L_gvt4AAAAd/kuromi.gif" alt="Kuromi waving" width="150" />
+</p>
 
-📍 Mendoza, Argentina | ✉️ [c4nd3l.m@gmail.com](mailto:c4nd3l.m@gmail.com)  
+<h1 align="center">💜👾 Candela Villaverde 👾💜</h1>
+<h3 align="center">✨ Full-Stack Web Developer ✨</h3>
 
----
-
-## 👋 ¡Hola! Bienvenid@ a mi perfil de GitHub  
-
-Soy desarrolladora web Full-Stack con experiencia en la creación de aplicaciones modernas, funcionales y escalables. Mi especialización está en el desarrollo frontend, aunque disfruto de trabajar en toda la pila tecnológica. Apasionada por aprender continuamente y colaborar en equipos para construir soluciones innovadoras.
+<p align="center">📍 Mendoza, Argentina &nbsp;|&nbsp; ✉️ <a href="mailto:c4nd3l.m@gmail.com">c4nd3l.m@gmail.com</a></p>
 
 ---
 
-## 🚀 Tecnologías y Herramientas  
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express, TypeScript  
-- **Bases de Datos:** PostgreSQL, MongoDB  
-- **Herramientas:** Git, GitHub, Slack, PgAdmin  
-- **Metodologías:** Scrum (Agile)  
+## 🖤 Bienvenid@ a mi rincón techie con estilo Kuromi 💜  
+
+Soy desarrolladora web **Full-Stack**, fan de las animaciones, los diseños cuidados y las soluciones funcionales. Me encanta el desarrollo **frontend**, aunque disfruto de toda la magia del código, desde el backend hasta los detalles visuales.
+
+Siempre con ganas de seguir aprendiendo, colaborar en proyectos lindos y crear experiencias únicas.
 
 ---
 
-## 📂 Proyectos Destacados  
+## 🛠️ Tecnologías y Herramientas  
 
-### [Streambox](#)  
-**Descripción:** Aplicación para visualizar y gestionar información de películas desde una base de datos.  
-**Tecnologías:** HTML, CSS, Bootstrap, Node.js, Express, MongoDB  
-
-### [Itchy and Scratchy Land](#)  
-**Descripción:** Sistema de gestión de turnos para un parque de diversiones.  
-**Tecnologías:** TypeScript, React, CSS, Express, SQL  
-
-### [NextByte](#)  
-**Descripción:** E-commerce para productos tecnológicos con un diseño moderno y funcionalidad completa de carrito de compras.  
-**Tecnologías:** React, TypeScript, Next.js, Tailwind CSS  
-
----
-
-## 🌟 Contáctame  
-- 💼 [LinkedIn](https://www.linkedin.com/in/candela-villaverde-0a9027318/)  
-- 💻 [Portafolio](#)  
-- 🖥️ [GitHub](https://github.com/C4nd3l-m)  
-
----
-
-Gracias por visitar mi perfil. ¡Hablemos de cómo puedo contribuir a tu próximo proyecto! 🚀
+```bash
+💅 Frontend:    React | Next.js | Tailwind CSS  
+🧠 Backend:     Node.js | Express | TypeScript  
+🗃️ Bases de datos:  PostgreSQL | MongoDB  
+🧰 Herramientas: Git | GitHub | PgAdmin | Slack  
+🌀 Metodologías: Scrum (Agile)
