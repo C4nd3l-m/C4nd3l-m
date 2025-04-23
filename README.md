@@ -54,7 +54,7 @@ E-commerce tech con diseño y funcionalidad moderna.
 
 ## 📨 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/candela-villaverde%F0%9F%91%BE-0a9027318/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/candela-villaverde/)
 - 🌐 [Portafolio](https://portfolio-candes-projects-5fc59a09.vercel.app)
 - 🖥️ [GitHub](https://github.com/C4nd3l-m)
 
